@@ -12,3 +12,6 @@ Chest cancer classification involves categorizing abnormalities in the chest, ty
 7. Update the pipeline 
 8. Update the main.py
 9. Update the dvc.yaml
+
+## Here we are using VGG16 Architechture
+![alt text](images/conv-layers-vgg16.jpg)
