@@ -15,3 +15,14 @@ Chest cancer classification involves categorizing abnormalities in the chest, ty
 
 ## Here we are using VGG16 Architechture
 ![alt text](images/conv-layers-vgg16.jpg)
+
+
+
+MLFLOW_TRACKING_URI=https://dagshub.com/shanmugamani1023/chest_cancer_classification.mlflow \
+MLFLOW_TRACKING_USERNAME=shanmugamani1023 \
+MLFLOW_TRACKING_PASSWORD=ebcdc7e28d18cdbe20cf5ca02e147e06d360e06c \
+python script.py
+
+
+
+
